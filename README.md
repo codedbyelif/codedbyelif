@@ -1,4 +1,4 @@
-# 💫 About Me [![Visit Count](https://visitcount.itsvg.in/api?id=codedbyelif&icon=0&color=12)](https://visitcount.itsvg.in)
+# 💫 About Me
 
 Hello! I'm Elif Kaynar, a Full Stack Developer focused on creating innovative solutions in the digital world. My passion for coding and hunger for continuous learning enable me to enhance my skills with each project.
 

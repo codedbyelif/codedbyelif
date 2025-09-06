@@ -10,6 +10,6 @@ Hello! I'm Elif Kaynar, a Full Stack Developer focused on creating innovative so
 
 ## 💻 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyelif&theme=onedark&hide_border=true" alt="MedusaCollins's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbyelif&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="MedusaCollins's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyelif&theme=onedark&hide_border=true" alt="Codedbyelif's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbyelif&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="Codedbyelif's GitHub Stats" />
 </div>

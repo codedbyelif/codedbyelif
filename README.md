@@ -1,4 +1,4 @@
-# 💫 About Me
+# 🎀 About Me
 
 Hello! I'm Elif Kaynar, a Full Stack Developer focused on creating innovative solutions in the digital world. My passion for coding and hunger for continuous learning enable me to enhance my skills with each project.
 
@@ -19,9 +19,13 @@ Hello! I'm Elif Kaynar, a Full Stack Developer focused on creating innovative so
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAÆFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+![](https://cdn.cdnstep.com/IV5rpoykJju78iwgeUFm/9-1.thumb128.png)
+

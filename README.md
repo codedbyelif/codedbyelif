@@ -1,4 +1,4 @@
-# 🎀 About Me
+#  About Me 🎀 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 Hello! I'm Elif Kaynar, a Full Stack Developer focused on creating innovative solutions in the digital world. My passion for coding and hunger for continuous learning enable me to enhance my skills with each project.
 

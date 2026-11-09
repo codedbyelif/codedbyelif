@@ -24,8 +24,6 @@
   ![Next JS](https://img.shields.io/badge/Next-ff69b4?style=for-the-badge&logo=next.js&logoColor=white)
   ![Expo](https://img.shields.io/badge/expo-ff69b4?style=for-the-badge&logo=expo&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-ff69b4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Expo](https://img.shields.io/badge/expo-ff69b4?style=for-the-badge&logo=expo&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-ff69b4?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Radix UI](https://img.shields.io/badge/radix%20ui-ff69b4?style=for-the-badge&logo=radix-ui&logoColor=white)
 
   ![Electron](https://img.shields.io/badge/Electron-ff69b4?style=for-the-badge&logo=electron&logoColor=white)

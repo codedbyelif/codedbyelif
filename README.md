@@ -49,6 +49,3 @@
     <img alt="github contribution grid snake animation" 
   src="https://raw.githubusercontent.com/codedbyelif/codedbyelif/output/github-snake-pink.svg">
   </picture>
-
-
-![](https://cdn.cdnstep.com/IV5rpoykJju78iwgeUFm/9-1.thumb128.png)

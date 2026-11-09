@@ -15,6 +15,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -22,9 +24,12 @@ jobs:
             dist/github-snake-pink.svg?color_snake=#ff1493&color_dots=#ebedf0,#ffc0e0,#ff8cc6,#ff4fa3,#e0177d
             dist/github-snake-pink-dark.svg?color_snake=#ff1493&color_dots=#161b22,#4a1d34,#8a2c5c,#d1437f,#ff69b4
 
+      - name: write EL'S at the end
+        run: cp -r dist out && node .github/scripts/els.mjs out/*.svg
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: out
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

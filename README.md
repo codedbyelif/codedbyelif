@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hello-kitty-night.gif" width="100%" alt="Hello Kitty coding at night">
+  <img src="assets/hello-kitty-night-loop.gif" width="100%" alt="Hello Kitty coding at night">
 </p>
 
 # About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Heart%20With%20Ribbon.webp" width="40">  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
